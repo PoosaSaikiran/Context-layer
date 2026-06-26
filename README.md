@@ -1,12 +1,2 @@
 f#Context-layer
-e
-e
-eee
-eef
-eeeff
-eeef
-eef
-eeeeH
-eef
-e
-e
+
